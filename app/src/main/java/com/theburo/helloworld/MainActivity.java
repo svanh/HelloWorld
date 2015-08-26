@@ -1,6 +1,6 @@
 package com.theburo.helloworld;
 
-/*Author: Steven van Hekelen*/
+/*Author: S.R.P. van Hekelen*/
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
